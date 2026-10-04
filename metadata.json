@@ -1,0 +1,8 @@
+{
+  "name": "ATS Resume Builder & Recruiter Optimizer",
+  "description": "Professional ATS Resume Builder, Job Description Analyzer, ATS Compatibility Scoring (0-100), and Honest Recruiter Resume Optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
